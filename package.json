@@ -1,0 +1,26 @@
+{
+  "name": "suonora-sdk",
+  "version": "0.0.4",
+  "description": "An SDK for interacting with the Suonora TTS service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zecod/suonora-sdk.git"
+  },
+  "author": "zecod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zecod/suonora-sdk/issues"
+  },
+  "homepage": "https://suonora.com",
+  "dependencies": {
+    "axios": "^1.9.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "jest": "^29.7.0"
+  }
+}
