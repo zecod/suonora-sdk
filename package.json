@@ -1,6 +1,6 @@
 {
   "name": "suonora-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An SDK for interacting with the Suonora TTS service.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/zecod/suonora-sdk.git"
   },
+  "keywords": [
+    "suonora",
+    "suonora-sdk",
+    "tts",
+    "text-to-speech",
+    "speech-synthesis",
+    "audio",
+    "voice",
+    "sdk"
+  ],
   "author": "zecod",
   "license": "MIT",
   "bugs": {
